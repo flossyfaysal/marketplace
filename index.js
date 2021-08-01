@@ -15,4 +15,5 @@ const component = output.push(output);
 
 const getJson = JSON.stringify(marketplace);
 
-console.log(getJson[0].users.name);
+console.log(getJson[0].users.names);
+console.log(getJson[0].users.names.fullname);
