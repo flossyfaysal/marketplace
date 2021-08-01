@@ -1,4 +1,5 @@
 "use strict";
+import { marketplace } from "./huge.js";
 
 const auth = {};
 const users = [];
@@ -10,3 +11,7 @@ const getLastPush = users.push();
 const output = [getLastPop, getLastPush, "master", "conflict", "osthir", "osthir origin", "great", "great origin"];
 
 const component = output.push(output);
+
+
+const getJson = JSON.stringify(marketplace);
+console.log(getJson);
