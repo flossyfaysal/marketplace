@@ -1,5 +1,6 @@
 "use strict";
 
+const auth = {};
 const users = [];
 users.push({name: "faysal", age: 27, isAlive: true});
 
