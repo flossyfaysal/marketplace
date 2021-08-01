@@ -2,3 +2,5 @@
 
 const users = [];
 users.push({name: "faysal", age: 27, isAlive: true});
+
+const getLastValue = users.pop();
