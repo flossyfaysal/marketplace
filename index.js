@@ -8,3 +8,5 @@ const getLastPop = users.pop();
 const getLastPush = users.push();
 
 const output = [getLastPop, getLastPush];
+
+const component = output.push(output);
