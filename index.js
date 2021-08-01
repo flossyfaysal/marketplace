@@ -14,4 +14,3 @@ const component = output.push(output);
 
 
 const getJson = JSON.stringify(marketplace);
-console.log(getJson);
