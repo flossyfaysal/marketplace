@@ -10,3 +10,5 @@ const getLastPush = users.push();
 const output = [getLastPop, getLastPush];
 
 const component = output.push(output);
+
+console.log("great software");
